@@ -1,9 +1,6 @@
 #  The contact options.
 
 -
-  icon: 'fas fa-file'
-  url: 'https://github.com/Lyndeno/resume/releases/latest/download/lsanche.pdf'
--
   type: github
   icon: 'fab fa-github-alt'
 #-
