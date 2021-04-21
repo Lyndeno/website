@@ -1,5 +1,6 @@
 ---
 title: Tech Help
+icon: fas fa-laptop-medical
 order: 5
 
 # The About page
