@@ -1,6 +1,6 @@
 ---
 title: Automating Your Professional Online Presence with Github - Resumes
-date: 2021-04-21 22:30:00 -0600
+date: 2021-04-24 01:20:00 -0600
 categories: [Projects]
 tags: [github, websites, automation, actions, latex, jekyll, resume]     # TAG names should always be lowercase
 pin: no
