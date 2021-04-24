@@ -10,7 +10,7 @@ order: 5
 # MIT License
 ---
 
-I am offering a tech help service for anyone who needs assistance with their systems. I have no set fees so you can contact me at [tech@lyndeno.ca](mailto:tech@lyndeno.ca).
+I am offering a tech help service for anyone who needs assistance with their systems. I have no set fees so you can contact me at [tech@lyndeno.ca](mailto:tech@lyndeno.ca). I am available for work in the Edmonton and Sherwood Park areas.
 
 I have knowledge and can assist in the following systems:
 
