@@ -1,5 +1,5 @@
 ---
-title: Automating Your Professional Online Presence with Github - Resumes
+title: Automating Your Resume with Github
 date: 2021-04-24 01:20:00 -0600
 categories: [Tutorials]
 tags: [github, websites, automation, actions, latex, jekyll, resume]     # TAG names should always be lowercase
