@@ -17,10 +17,10 @@ timezone: America/Edmonton
 # --------------------------
 title: Lyndon Sanche                          # the main title
 
-tagline: Personal website of Lyndon Sanche   # it will display as the sub-title
+tagline: Software Developer, Elecrical Engineer in Training   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Personal Website of Lyndon Sanche
+  Lyndon Sanche is a software developer and open source enthusiast. He likes to write Nix and Rust code.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://lyndeno.ca'
