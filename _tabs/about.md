@@ -1,8 +1,12 @@
 ---
+# the default layout is 'page'
 title: About
-icon: fas fa-info
+icon: fas fa-info-circle
 order: 4
 ---
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
 
 I am an Electrical Engineering graduate from the University of Alberta. I am currently an Engineer in Training at ATCO Electric. I also help people with their computer and technology issues when I have time.
 
