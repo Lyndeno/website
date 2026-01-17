@@ -219,6 +219,15 @@ image.repart = {
 };
 ```
 
+In your `flake.nix` you would have this in your `inputs`:
+
+```nix
+rpi4-uefi = {
+  url = "https://github.com/pftf/RPi4/releases/download/v1.50/RPi4_UEFI_Firmware_v1.50.zip";
+  flake = false;
+};
+```
+
 The above configuration sets up an output image that can be used to flash to an
 SD card. Some things are set up for later, like the "_empty" partition. This
 image currently contains one ESP partition and two nix store partitions, one
@@ -453,3 +462,5 @@ Systemd is a topic I am going to explore in future posts. Specifically, I am
 interested in replacing every part of my system for which systemd has a counterpart.
 It will be an experiment, and we will see if it is a positive or negative
 experience for my desktop Linux workflow.
+
+The source for my system in this article can be found [here](https://github.com/Lyndeno/nix-config/blob/ba5528c5b638713adb43b680559f1b4edabccde8/hosts/trinity/configuration.nix).
