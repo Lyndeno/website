@@ -265,8 +265,7 @@ We enable repart in the initrd to enable creating the root partition on first
 boot. I also enable emergency access so if this does not work, I can log in to
 an emergency shell to see what went wrong.
 
-> [!NOTE]
-> I set `/dev/mmcblk1` as that is what my SD card was linked to **most** of the
+> **NOTE** I set `/dev/mmcblk1` as that is what my SD card was linked to **most** of the
 > time. I have not figured out a way to get more specific on my Pi, as sometimes
 > it boots on `mmcblk0`.
 
